@@ -1,0 +1,101 @@
+no;language;feature
+1;Coptic;m, n
+2;Egyptian (Ancient);m, n
+3;Awjilah-Foqaha;m, n
+4;Central Moroccan Berber;m, n
+5;Tachelhit;m, n
+6;Tamasheq;m, n, ŋ, ɲ
+7;Siwi;m, n
+8;Hausa;m, n
+9;Miya;m, n, ŋ, ŋʷ
+10;Bana;m, n, ŋ, ŋʷ
+11;Saya;m, n, ŋ
+12;Amharic;m, n, ŋ
+13;Baiso;m, n, ŋ
+14;Saho;m, n, ɲ
+15;Konso;m, n, ɲ
+16;Eastern Oromo;m, n, ɲ
+17;Dahalo;m, n, ɲ
+18;Sidamo;m, n, ɲ
+19;Iraqw;m, n, ɲ, ŋ, ŋʷ
+20;Tsamai;m, n, ɲ, ŋ
+21;Kambaata;m, n, ɲ
+22;Beja;m, n, ŋ
+23;Afar;m, n
+24;Xamtanga;m, n, ŋ, ŋʷ
+25;Qimant;m, n, ŋ, ŋʷ
+26;Mofu-Gudur;m, n, ŋ, ŋʷ
+27;Gude;m, n, ŋ
+28;Goemai;m, n, ŋ
+29;Somali;m, n
+30;Gedeo;m, ɱ, n, ɲ, ŋ
+31;Bura-Pabir;m, n, ɲ, ŋ
+32;Buwal;m, n, ŋ, ŋʷ
+33;Hdi;m, n, ŋ
+34;Mina (Cameroon);m, n, ŋ
+35;Ngas;m, n, ŋ
+36;Pa'a;m, n
+37;Psikye;m, n, ɲ, ŋ, ŋʷ
+38;Sukur;m, n, ŋ
+39;Wandala;m, n, ɲ, ŋ
+40;Gidar;m, n, ŋ
+41;Lagwan;m, n
+42;Mser;m, n
+43;Lamang;m, n, ŋ, ŋʷ
+44;Marghi Central;m, n, ɲ, ŋ, ŋʷ, mʷ
+45;Mada (Cameroon);m, n, ŋ
+46;Moloko;m, n, ŋ
+47;Muyang;m, n
+48;Wuzlam;m, n, ŋ, ŋʷ
+49;Burji;m, ɱ, n, ɲ, ŋ
+50;Dass;m, n, ŋ, nʲ
+51;Awngi;m, n, ŋ, ŋʷ
+52;Maay;m, n, ɲ, ŋ
+53;Rendille;m, n, ɲ, ŋ
+54;Akkadian;m, n
+55;Eblaite;m, n
+56;Ancient North Arabian;m, n
+57;Ugaritic;m, n
+58;Geez;m, n
+59;Amorite;m, n
+60;Punic;m, n
+61;Phoenician;m, n
+62;Standard Arabic;m, n
+63;Sebat Bet Gurage;m, n
+64;Giiwo;m, n, ɲ, ŋ
+65;Geruma;m, n, ɲ, ŋ
+66;Gera;m, n, ɲ, ŋ
+67;Beele;m, n, ɲ, ŋ
+68;Kubi;m, n, ɲ, ŋ
+69;Deno;m, n, ɲ, ŋ
+70;Galambu;m, n, ɲ, ŋ
+71;Ga'anda;m, n, ŋ
+72;Bade;m, n, ɲ, ŋ
+73;Polci;m, n, ɲ, ŋ
+74;Bilin;m, n, ŋ, ŋʷ
+75;Mbuko;m, n
+76;Majera;m, n
+77;Parkwa;m, n
+78;Glavda;m, n, ɲ, ŋ
+79;Mafa;m, n
+80;Cuvok;m, n, ŋ
+81;Kabyle;m, n
+82;Tetserret;m, n
+83;Buduma;m, n, ŋ
+84;El Molo;m, n, ɲ, ŋ
+85;Dirasha;m, n, ɲ
+86;Orma;m, n, ŋ, nʲ
+87;Yaaku;m, n, ɲ, ŋ
+88;Gawwada;m, n, ɲ
+89;Modern Hebrew;m, n
+90;Samaritan;m, n
+91;Sharwa;m, n, ŋ
+92;Jimi (Cameroon);m, n, ŋ
+93;Kirya-Konzel;m, n, ɲ, ŋ, ᶆ
+94;Merey;m, n, ŋ
+95;Mpade;m, n, ŋ
+96;Tumak;m, n, ɲ, ŋ
+97;Gavar;m, n, ŋ
+98;Lele (Chad);m, n, ɲ
+99;Kera;m, n, ŋ
+100;Barain;m, n, ɲ, ŋ
