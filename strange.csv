@@ -1,0 +1,101 @@
+no;language;feature;biblio;minimal;strange;;;
+1;Coptic;m, n;[Younan 2005: 14];m, n ;NA;;;
+2;Egyptian (Ancient);m, n;[Loprieno 1995: 33];m, n ;NA
+3;Awjilah-Foqaha;m, n;[van Putten 2013: 14];m, n ;NA
+4;Central Moroccan Berber;m, n;[Abdel-Massih 1971: 2-4];m, n ;NA
+5;Tachelhit;m, n;[Berkai 2013: 38];m, n ;NA
+6;Tamasheq;m, n, ɲ, ŋ;[Heath 2005: 23-25];m, n ;NA
+7;Siwi;m, n;[Naumann 2011: 250-251];m, n ;NA
+8;Hausa;m, n;[Jaggar 2001: 6];m, n ;NA
+9;Miya;m, n, ŋ, ŋʷ;[Schuh 1998];m, n ;ŋʷ
+10;Bana;m, n, ŋ, ŋʷ;[Hofmann 1990: 35];m, n ;ŋʷ
+11;Saya;m, n, ŋ;[Caron 2005: 4];m, n ;NA
+12;Amharic;m, n, ŋ;[Titov 1991: 8-11];m, n ;NA
+13;Baiso;m, n, ŋ;[Hayward 1978: 541];m, n ;NA
+14;Saho;m, n, ɲ;[Banti & Vergari 2005];m, n ;NA
+15;Konso;m, n, ɲ;[Ongaye 2013: 7];m, n ;NA
+16;Eastern Oromo;m, n, ɲ;[Mohammed & Zaborski 1990: 11];m, n ;NA
+17;Dahalo;m, n, ɲ;[Tosco 1991: 1-4];m, n ;NA
+18;Sidamo;m, n, ɲ;[Kawachi 2007: 28];m, n ;NA
+19;Iraqw;m, n, ɲ, ŋ, ŋʷ;[Mous 2007: 5];m, n ;ŋʷ
+20;Tsamai;m, n, ɲ, ŋ;[Savà 2005: 16-18];m, n ;NA
+21;Kambaata;m, n, ɲ;[Treis 2008: 22];m, n ;NA
+22;Beja;m, n, ŋ;[Vanhove 2014: 5-6];m, n ;NA
+23;Afar;m, n;[Bliese 1981: 2];m, n ;NA
+24;Xamtanga;m, n, ŋ, ŋʷ;[Appleyard 1987: 246];m, n ;ŋʷ
+25;Qimant;m, n, ŋ, ŋʷ;[Appleyard 1975: 317];m, n ;ŋʷ
+26;Mofu-Gudur;m, n, ŋ, ŋʷ;[Barreteau 1983: 84, 94, 99, 105, 117, 133, 143, 158];m, n ;NA
+27;Gude;m, n, ŋ;[Hoskison 1983: 10];m, n ;NA
+28;Goemai;m, n, ŋ;[Hellwig 2011: 17-18];m, n ;NA
+29;Somali;m, n;[Saeed 1999: 7];m, n ;NA
+30;Gedeo;m, ɱ, n, ɲ, ŋ;[Wedekind 1979: 157];m, n ;ɱ
+31;Bura-Pabir;m, n, ɲ, ŋ;[Blench 2009: 2];m, n ;NA
+32;Buwal;m, n, ŋ, ŋʷ;[Viljoen 2013: 30];m, n ;ŋʷ
+33;Hdi;m, n, ŋ;[Frajzyngier 2002: 10];m, n ;NA
+34;Mina (Cameroon);m, n, ŋ;[Frajzyngier & Johnston &  Edwards 2005: 7];m, n ;NA
+35;Ngas;m, n, ŋ;[Burquest 1973: 11];m, n ;NA
+36;Pa'a;m, n;[Skinner 1979: 21-22];m, n ;NA
+37;Psikye;m, n, ɲ, ŋ, ŋʷ;[Smith 1969: 43];m, n ;ŋʷ
+38;Sukur;m, n, ŋ;[Thomas 2014: 22];m, n ;NA
+39;Wandala;m, n, ɲ, ŋ;[Frajzyngier 2012: 25];m, n ;NA
+40;Gidar;m, n, ŋ;[Noukeu 2002: 25];m, n ;NA
+41;Lagwan;m, n;[Ruff 2005: 8];m, n ;NA
+42;Mser;m, n;[Gravina 2014: 213];m, n ;NA
+43;Lamang;m, n, ŋ, ŋʷ;[Wolff 2015: 61];m, n ;ŋʷ
+44;Marghi Central;m, n, ɲ, ŋ, ŋʷ, mʷ;[Hoffmann 1963];m, n ;ŋʷ, mʷ
+45;Mada (Cameroon);m, n, ŋ;[Ernst-Kurdi 2016: 118];m, n ;NA
+46;Moloko;m, n, ŋ;[Bow 1997: 12-13];m, n ;NA
+47;Muyang;m, n;[Smith 1999: 5];m, n ;NA
+48;Wuzlam;m, n, ŋ, ŋʷ;[de Colombel 2005: 21];m, n ;ŋʷ
+49;Burji;m, ɱ, n, ɲ, ŋ;[Wedekind 1980: 157];m, n ;ɱ
+50;Dass;m, n, ŋ, nʲ;[Caron 2002: 2];m, n ;nʲ
+51;Awngi;m, n, ŋ, ŋʷ;[Joswig 2010: 2];m, n ;ŋʷ
+52;Maay;m, n, ɲ, ŋ;[Paster 2006: 75];m, n ;NA
+53;Rendille;m, n, ɲ, ŋ;[Heine 1976: 187];m, n ;NA
+54;Akkadian;m, n;[Huehnergard 1997: 1-2];m, n ;NA
+55;Eblaite;m, n;[Huehnergard 2004: 231];m, n ;NA
+56;Ancient North Arabian;m, n;[Woodard 2005: 497];m, n ;NA
+57;Ugaritic;m, n;[Sivan 1997: 20-36];m, n ;NA
+58;Geez;m, n;[Gragg 1997: 172-174];m, n ;NA
+59;Amorite;m, n;[Buccellati 1997: 16];m, n ;NA
+60;Punic;m, n;[Segert 1997: 59];m, n ;NA
+61;Phoenician;m, n;[Segert 1997: 59];m, n ;NA
+62;Standard Arabic;m, n;[Haywood & Nahmad 1965: 3-4];m, n ;NA
+63;Sebat Bet Gurage;m, n;[Leslau 1997: 375, 383];m, n ;NA
+64;Giiwo;m, n, ɲ, ŋ;[Schuh 1978: 8];m, n ;NA
+65;Geruma;m, n, ɲ, ŋ;[Schuh 1978: 8];m, n ;NA
+66;Gera;m, n, ɲ, ŋ;[Schuh 1978: 8, 92-93];m, n ;NA
+67;Beele;m, n, ɲ, ŋ;[Schuh 1978: 8, 17-18];m, n ;NA
+68;Kubi;m, n, ɲ, ŋ;[Schuh 1978: 8];m, n ;NA
+69;Deno;m, n, ɲ, ŋ;[Schuh 1978: 8];m, n ;NA
+70;Galambu;m, n, ɲ, ŋ;[Schuh 1978: 8, 61-62];m, n ;NA
+71;Ga'anda;m, n, ŋ;[Newman 1971: 9];m, n ;NA
+72;Bade;m, n, ɲ, ŋ;[Schuh 2005: 2];m, n ;NA
+73;Polci;m, n, ɲ, ŋ;[Blench 2014: 2];m, n ;NA
+74;Bilin;m, n, ŋ, ŋʷ;[Appleyard 2012: 225];m, n ;ŋʷ
+75;Mbuko;m, n;[Gravina 1999: 8-13];m, n ;NA
+76;Majera;m, n;[Allison 2012: 17];m, n ;NA
+77;Parkwa;m, n;[Anderson & Swackhammer 1981: 132 ];m, n ;NA
+78;Glavda;m, n, ɲ, ŋ;[Buba & Owens 2007: 674];m, n ;NA
+79;Mafa;m, n;[Barreteau 1990: 16];m, n ;NA
+80;Cuvok;m, n, ŋ;[Ndokobaï 2003: 51, 53, 55];m, n ;NA
+81;Kabyle;m, n;[Basset 1887: 4];m, n ;NA
+82;Tetserret;m, n;[Lux 2011: 70];m, n ;NA
+83;Buduma;m, n, ŋ;[Gaudiche 1938: 11];m, n ;NA
+84;El Molo;m, n, ɲ, ŋ;[Tosco 2015: 126-128];m, n ;NA
+85;Dirasha;m, n, ɲ;[Wondwosen 2006: 9];m, n ;NA
+86;Orma;m, n, ŋ, nʲ;[Hoskins 2011: 8];m, n ;nʲ
+87;Yaaku;m, n, ɲ, ŋ;[Heine 1975: 34];m, n ;NA
+88;Gawwada;m, n, ɲ;[Gebrew 2003: 6];m, n ;NA
+89;Modern Hebrew;m, n;[Prince 1975: 9];m, n ;NA
+90;Samaritan;m, n;[Ben-Ḥayyim 2000], [];m, n ;NA
+91;Sharwa;m, n, ŋ;[Gravina 2009: 8];m, n ;NA
+92;Jimi (Cameroon);m, n, ŋ;[Gravina 2009: 8];m, n ;NA
+93;Kirya-Konzel;m, n, ɲ, ŋ;[Blench & Ndamsai 2006: 9];m, n ;NA
+94;Merey;m, n, ŋ;[Gravina & Doumok 2001: 1-3];m, n ;NA
+95;Mpade;m, n, ŋ;[Allison 2006: 3], [{[http://everything.explained.today/Samaritan_Hebrew/]}];m, n ;NA
+96;Tumak;m, n, ɲ, ŋ;[Caprile 1977: 82];m, n ;NA
+97;Gavar;m, n, ŋ;[Noukeu 2004: 3-4];m, n ;NA
+98;Lele (Chad);m, n, ɲ;[Vydrine 2009: 36];m, n ;NA
+99;Kera;m, n, ŋ;[Pearce 2011: 249];m, n ;NA
+100;Barain;m, n, ɲ, ŋ;[Lovestrand 2012: 12];m, n ;NA
